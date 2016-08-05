@@ -1,4 +1,3 @@
-layout_spectrum: 0.22304366389289498
 typography_spectrum: 0.3752578101120889
 color:
   brandStrength: 0.7132211045827717
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.22304366389289498
 name: newtrack
+title: Getaway
 description: '"Old ways don''t open new doors."'
