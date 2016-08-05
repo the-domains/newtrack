@@ -1,0 +1,14 @@
+layout_spectrum: 0.22304366389289498
+typography_spectrum: 0.3752578101120889
+color:
+  brandStrength: 0.7132211045827717
+  lightness: 0.2986383878160268
+  saturation: 0.49079970037564635
+  rhythmicContrast: 0.18723840545862913
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: newtrack
